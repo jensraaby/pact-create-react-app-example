@@ -3,7 +3,7 @@
 const path = require('path')
 const Pact = require('pact')
 const wrapper = require('@pact-foundation/pact-node')
-const getMeDogs = require('../index').getMeDogs
+const getMeDogs = require('../pactClient').getMeDogs
 
 describe("Dog's API", () => {
   let url = 'http://localhost'

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-exports const getMeDogs = (endpoint) => {
+export const getMeDogs = (endpoint) => {
   const url = endpoint.url
   const port = endpoint.port
 
