@@ -4,7 +4,7 @@
   "private": true,
   "devDependencies": {
     "@pact-foundation/pact-node": "^4.6.0",
-    "pact": "^1.0.0-rc.5",
+    "pact": "^1.0.0",
     "path": "^0.12.7",
     "react-scripts": "0.8.5"
   },

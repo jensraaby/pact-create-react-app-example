@@ -3842,9 +3842,9 @@ os-tmpdir@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
 
-pact@^1.0.0-rc.5:
-  version "1.0.0-rc.5"
-  resolved "https://registry.yarnpkg.com/pact/-/pact-1.0.0-rc.5.tgz#ea7c3cbaa265bfcbee2ebf286812aa7df1a60cc0"
+pact@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/pact/-/pact-1.0.0.tgz#f36242dea64e2974a3a28625b45abb092e250f12"
   dependencies:
     es6-promise "3.2.1"
     lodash.isfunction "3.0.8"
