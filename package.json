@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "@pact-foundation/pact-node": "^4.6.0",
-    "pact": "^1.0.0",
+    "jest-cli": "^21.2.1",
+    "pact": "^3.0.1",
     "path": "^0.12.7",
-    "react-scripts": "0.8.5"
+    "react-scripts": "1.0.0"
   },
   "dependencies": {
     "axios": "^0.15.3",

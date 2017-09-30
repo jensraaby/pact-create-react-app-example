@@ -8,7 +8,7 @@
   "interactions": [
     {
       "description": "a request for projects",
-      "provider_state": "i have a list of projects",
+      "providerState": "i have a list of projects",
       "request": {
         "method": "GET",
         "path": "/dogs",
@@ -30,6 +30,8 @@
     }
   ],
   "metadata": {
-    "pactSpecificationVersion": "2.0.0"
+    "pactSpecification": {
+      "version": "2.0.0"
+    }
   }
 }
